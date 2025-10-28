@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 WikiPeek+ — Random Wikipedia summaries in your terminal ✨
-Author: YourName
+Author: youxgdavid
 """
 
 import wikipedia
